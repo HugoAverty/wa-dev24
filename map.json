@@ -151,7 +151,12 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/www.youtube.com\/watch?v=OExQdImAn0g"
+                         "value":"https:\/\/www.youtube.com\/embed\/OExQdImAn0g?autoplay=1"
+                        }, 
+                        {
+                         "name":"openWebsitePolicy",
+                         "type":"string",
+                         "value":"fullscreen"
                         }],
                  "type":"tilelayer",
                  "visible":true,
